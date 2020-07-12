@@ -1,0 +1,17 @@
+## Day 73 Resources 
+
+- [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)
+- [Lecture 13.2 — Clustering | KMeans Algorithm — Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=hDmNF9JG3lo)
+- [K Means Clustering Intuition](https://www.youtube.com/watch?v=AWKCCK5YHsE)
+- [Kmeans Clustering](https://www.youtube.com/watch?v=qg_M37WGKG8)
+- [K mean clustering algorithm with solve example](https://www.youtube.com/watch?v=YWgcKSa_2ag)
+- [Machine Learning Algorithms Explained – K-Means Clustering](https://blog.easysol.net/machine-learning-algorithms-3/)
+- [Understanding K-means Clustering in Machine Learning](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
+- [Possibly the simplest way to explain K-Means algorithm](https://bigdata-madesimple.com/possibly-the-simplest-way-to-explain-k-means-algorithm/)
+- [The Most Comprehensive Guide to K-Means Clustering You’ll Ever Need](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)
+- [By learn.machinelearning - 1](https://www.instagram.com/p/B4WzxJEg6kt/)
+- [By learn.machinelearning - 2](https://www.instagram.com/p/B4cUMFPgOls/)
+- [By learn.machinelearning - 3](https://www.instagram.com/p/B4egMstAMAx/)
+- [By learn.machinelearning - 4](https://www.instagram.com/p/B4hvfyxACJH/)
+- [By learn.machinelearning - 5](https://www.instagram.com/p/B4kXaF2gaoD/)
+- [By learn.machinelearning - 6](https://www.instagram.com/p/B44fPOCAkzz/)

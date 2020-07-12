@@ -1,0 +1,18 @@
+## Day 55 Resources 
+
+- [Naive Bayes Algorithm with codes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+- [A practical explanation of a Naive Bayes classifier](https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/)
+- [Naive Bayesian](https://www.saedsayad.com/naive_bayesian.htm)
+- [Naive Bayes Classifier Explained](https://programmerbackpack.com/naive-bayes-classifier-explained/)
+- [A Gentle Introduction to Naive Bayes Classifier](https://medium.com/datadriveninvestor/a-gentle-introduction-to-naive-bayes-classifier-9d7c4256c999)
+- [Naive Bayes Classification](https://medium.com/machine-learning-101/chapter-1-supervised-learning-and-naive-bayes-classification-part-1-theory-8b9e361897d5)
+- [All about Naive Bayes](https://towardsdatascience.com/all-about-naive-bayes-8e13cef044cf)
+- [Naive Bayes Classifier](https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c)
+- [Naïve Bayes for Machine Learning – From Zero to Hero](https://blog.floydhub.com/naive-bayes-for-machine-learning/)
+- [Naïve Bayes Algorithm — Everything you need to know](https://levelup.gitconnected.com/na%C3%AFve-bayes-algorithm-everything-you-need-to-know-9bf3104b78e5)
+- [Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
+- [Naïve Bayes Classifier - Fun and Easy Machine Learning](https://www.youtube.com/watch?v=CPqOCI0ahss)
+- [By learn.machinelearning - 1](https://www.instagram.com/p/B0isoIwAEU3/)
+- [By learn.machinelearning - 2](https://www.instagram.com/p/B0lXE_fgjkI/)
+- [By learn.machinelearning - 3](https://www.instagram.com/p/B0n6X1wAvA-/)
+- [By learn.machinelearning - 4](https://www.instagram.com/p/B0yMcqTg39F/)

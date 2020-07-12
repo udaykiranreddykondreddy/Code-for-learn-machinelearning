@@ -1,0 +1,15 @@
+## Day 59 Resources 
+
+- [Decision Trees Explained Easily](https://medium.com/@chiragsehra42/decision-trees-explained-easily-28f23241248)
+- [Decision Trees Explained](https://towardsdatascience.com/decision-trees-explained-3ec41632ceb6)
+- [Decision Trees - Explained, Demystified and Simplified](https://adityashrm21.github.io/Decision-Trees/)
+- [Introduction to Decision Trees](https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb)
+- [Chapter 4: Decision Trees Algorithms](https://medium.com/deep-math-machine-learning-ai/chapter-4-decision-trees-algorithms-b93975f7a1f1)
+- [Decision Tree. It begins here](https://medium.com/@rishabhjain_22692/decision-trees-it-begins-here-93ff54ef134)
+- [Decision Trees — An Intuitive Introduction](https://medium.com/x8-the-ai-community/decision-trees-an-intuitive-introduction-86c2b39c1a6c)
+- [StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)
+- [Decision Tree (CART) - Machine Learning Fun and Easy](https://www.youtube.com/watch?v=DCZ3tsQIoGU)
+- [By learn.machinelearning - 1](https://www.instagram.com/p/B1ayrWqAU3H/)
+- [By learn.machinelearning - 2](https://www.instagram.com/p/B1d4cd_gVAM/)
+- [By learn.machinelearning - 3](https://www.instagram.com/p/B1f-jKVggTh/)
+- [By learn.machinelearning - 4](https://www.instagram.com/p/B1q4h2Sg81s/)

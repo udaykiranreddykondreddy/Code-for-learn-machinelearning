@@ -1,0 +1,15 @@
+## Day 6 Resources 
+
+- [Computational Linear Algebra](https://www.fast.ai/2017/07/17/num-lin-alg/)
+- [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+- [Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear-algebra-machine-learning/)
+- [10 Examples of Linear Algebra in Machine Learning](https://machinelearningmastery.com/examples-of-linear-algebra-in-machine-learning/)
+- [A comprehensive beginners guide to Linear Algebra for Data Scientists](https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/)
+- [Linear Algebra for Machine Learning Applied AI](https://www.youtube.com/watch?v=Y25M0NhTO4U&list=PLupD_xFct8mEYg5q8itrFDuDaWKDtjSj_)
+- [Linear Algebra Khan academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
+- [Essence of linear algebra 3blue1brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Linear algebra by lear.machinelearning - 1](https://www.instagram.com/p/Bs73ke2HASr/)
+- [Linear algebra by lear.machinelearning - 2](https://www.instagram.com/p/Bs8SW_oHrds/)
+- [Linear algebra by lear.machinelearning - 3](https://www.instagram.com/p/Bs-bJ3pHTOd/)
+- [Linear algebra by lear.machinelearning - 4](https://www.instagram.com/p/BtAy08dn-tZ/)
+- [Linear algebra by lear.machinelearning - 5](https://www.instagram.com/p/BtFVWoxnbYi/)

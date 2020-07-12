@@ -1,0 +1,17 @@
+## Day 31 Resources 
+
+- [Understanding Logistic Regression](https://towardsdatascience.com/understanding-logistic-regression-9b02c2aec102)
+- [Logistic Regression Statquest](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
+- [Understanding Logistic Regression in Python](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python)
+- [Logistic Regression - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=YMJtsYIp4kg)
+- [Machine Learning Tutorial Python - 8: Logistic Regression (Binary Classification)](https://www.youtube.com/watch?v=zM4VZR0px8E)
+- [Lecture 6.1 — Logistic Regression | Classification — — [ Machine Learning | Andrew Ng]](https://www.youtube.com/watch?v=-la3q9d7AKQ&list=PLNeKWBMsAzboR8vvhnlanxCNr2V7ITuxy)
+- [Logistic Regression with Maximum Likelihood](https://www.youtube.com/watch?v=TM1lijyQnaI)
+- [Logistic Regression Tutorial for Machine Learning](https://machinelearningmastery.com/logistic-regression-tutorial-for-machine-learning/)
+- [Logistic regression hackerearth](https://www.hackerearth.com/practice/machine-learning/binary-classification-for-continuous-variables/logistic-regression/tutorial/)
+- [By learn.machinelearning - 1](https://www.instagram.com/p/Byz8T3zg_cV/)
+- [By learn.machinelearning - 2](https://www.instagram.com/p/By5HATBA98o/)
+- [By learn.machinelearning - 3](https://www.instagram.com/p/By7yopAgvBf/)
+- [By learn.machinelearning - 4](https://www.instagram.com/p/By-KcKpAF46/)
+- [By learn.machinelearning - 5](https://www.instagram.com/p/BzF0S4hAXh6/)
+- [By learn.machinelearning - 6](https://www.instagram.com/p/BzIZGyHANNa/)
