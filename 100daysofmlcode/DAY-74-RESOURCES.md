@@ -1,4 +1,4 @@
-## Day 73 Resources 
+## Day 74 Resources 
 
 - [StatQuest: K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)
 - [Lecture 13.2 — Clustering | KMeans Algorithm — Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=hDmNF9JG3lo)
