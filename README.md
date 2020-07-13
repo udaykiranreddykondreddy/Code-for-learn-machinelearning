@@ -3,4 +3,4 @@ This is the code repository for my Learn.machinelearning community
 - [Youtube channel](https://www.youtube.com/c/LearnMachineLearning)
 - [Linkedin page](https://www.linkedin.com/company/learn-machine-learning/)
 - [Twitter page](https://twitter.com/LearnMachineLe4)
-- [Telegram channel](https://t.me/LearnDotMachineLearning)
+- [Telegram channel](https://telegram.me/LearnDotMachineLearning)
