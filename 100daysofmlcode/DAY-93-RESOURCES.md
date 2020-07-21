@@ -1,0 +1,17 @@
+## Day 93 Resources 
+
+- [Deployment of ML Models](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)
+- [How to Easily Deploy Machine Learning Models Using Flask](https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4)
+- [Deploy Machine Learning Model using Flask](https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/)
+- [Deploying a machine learning model on the Web using Flask and Python](https://medium.com/analytics-vidhya/deploying-a-machine-learning-model-on-web-using-flask-and-python-54b86c44e14a)
+- [Deploy a machine learning model using flask](https://hackernoon.com/deploy-a-machine-learning-model-using-flask-da580f84e60c)
+- [Tutorial: Deploying a machine learning model to the web](https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7)
+- [Flask — Host Your Python Machine Learning Model On Web](https://medium.com/fintechexplained/flask-host-your-python-machine-learning-model-on-web-b598151886d)
+- [Create An API To Deploy Machine Learning Models Using Flask and Heroku](https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50)
+- [How to Deploy Machine Learning Models using Flask (with Code!)](https://www.analyticsvidhya.com/blog/2020/04/how-to-deploy-machine-learning-model-flask/)
+- [Deploying Deep Learning Models Part 1: Preparing the Model](https://blog.paperspace.com/deploying-deep-learning-models-flask-web-python/)
+- [Deploying Python and R models into production](https://www.kaggle.com/getting-started/133569)
+- [Deploy Machine Learning Models with Django](https://www.deploymachinelearning.com/)
+- [Productionize a Machine Learning Model with a Django API](https://towardsdatascience.com/productionize-a-machine-learning-model-with-a-django-api-c774cb47698c)
+- [Introduction to Deploying Machine Learning Models with Django](https://www.mlq.ai/django-machine-learning/)
+- [There are two very different ways to deploy ML models, here’s both](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1)
