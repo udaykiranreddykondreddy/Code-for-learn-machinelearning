@@ -1,0 +1,16 @@
+## BERT Resources 
+
+- [TensorFlow 2.0 + Keras Crash Course](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
+- [Inside TensorFlow: tf.Keras (part 1)](https://www.youtube.com/watch?v=UYRBHFAvLSs&feature=youtu.be)
+- [Inside TensorFlow: tf.Keras (part 2)](https://www.youtube.com/watch?v=uhzGTijaw8A)
+- [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+- [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python?tap_a=5644-dce66f&tap_s=357540-5b28dd)
+- [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
+- [Hands-On Machine Learning with Scikit-Learn, Keras and Tensor Flow](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352139054)
+- [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [July 2019 - Practical Machine Learning with Tensorflow NPTEL](https://www.youtube.com/playlist?list=PLOzRYVm0a65cTV_t0BYj-nV8VX_Me6Es3)
+- [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
+- [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2?action=enroll)
+- [Introduction to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
+- [Learn how to use TensorFlow 2.0 for machine learning in this MASSIVE free course](https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course/)
+- [made with ml tensorflow](https://madewithml.com/projects/search-results/?tags=tensorflow)

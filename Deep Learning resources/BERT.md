@@ -17,3 +17,4 @@
 - [NLP for Developers: BERT | Rasa](https://www.youtube.com/watch?v=zMxvS7hD-Ug)
 - [Training Sentiment Model Using BERT and Serving it with Flask API](https://www.youtube.com/watch?v=hinZO--TEk4)
 - [More BERT applications](https://madewithml.com/projects/search-results/?tags=bert)
+- [made with ml bert](https://madewithml.com/projects/search-results/?tags=bert)

@@ -1,0 +1,16 @@
+## Convolutional neural netowrks Resources 
+
+- [Stanford Lectures 6, 7 and 8](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+- [Deeplearning AI CNN course](https://www.coursera.org/learn/convolutional-neural-networks?action=enroll&specialization=deep-learning)
+- [Convolutional Neural Network Tutorial: From Basic to Advanced](https://missinglink.ai/guides/convolutional-neural-networks/convolutional-neural-network-tutorial-basic-advanced/)
+- [Convolutional Neural Networks with TensorFlow](https://www.datacamp.com/community/tutorials/cnn-tensorflow-python)
+- [TensorFlow CNN tutorials](https://www.tensorflow.org/tutorials/images/cnn)
+- [Convolutional Neural Networks (CNN)](https://www.kaggle.com/kanncaa1/convolutional-neural-network-cnn-tutorial)
+- [Understanding of Convolutional Neural Network (CNN) — Deep Learning](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
+- [The best explanation of Convolutional Neural Networks on the Internet!](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8)
+- [Convolutional Neural Networks — Simplified](https://medium.com/x8-the-ai-community/cnn-9c5e63703c3f)
+- [Simple Introduction to Convolutional Neural Networks](https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac)
+- [C4W1L01 Computer Vision](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+- [Convolutional Neural Networks (CNNs) explained](https://www.youtube.com/watch?v=YRhxdVk_sIs)
+- [Convolution Neural Networks - EXPLAINED](https://www.youtube.com/watch?v=m8pOnJxOcqY)
+- [made with ml CNN](https://madewithml.com/projects/search-results/?tags=cnn)
