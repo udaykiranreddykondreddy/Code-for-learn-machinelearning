@@ -40,6 +40,10 @@
 ### Books
 
 - [Deeplearning best book](https://www.deeplearningbook.org/)
+- [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+- [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1519989624&sr=1-4&keywords=deep+learning+with+python&linkCode=sl1&tag=trndingcom-20&linkId=ec7663329fdb7ace60f39c762e999683)
+- [TensorFlow Deep Learning Cookbook](https://www.amazon.com/TensorFlow-Deep-Learning-Cookbook-artificial-intelligence/dp/1788293592/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1519989839&sr=1-1&keywords=tensorflow+deep+learning+cookbook&linkCode=sl1&tag=trndingcom-20&linkId=62d76692100e0dad838e4fff46b17f54)
+- [Deep Learning: A Practitioners Approach](https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1519990106&sr=1-1&keywords=deep+learning+a+practitioner%27s+approach&linkCode=sl1&tag=trndingcom-20&linkId=2a0bb0ab1629a43eb181ac036865cf7f)
 
 
 
