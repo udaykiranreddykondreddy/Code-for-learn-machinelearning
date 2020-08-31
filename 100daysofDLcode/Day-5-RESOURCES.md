@@ -15,7 +15,7 @@
 - [But How Does The MultiLayer Perceptron Actually Work?](https://www.youtube.com/watch?v=AZEfmoWBXwg)
 - [Neural Networks (1): Basics](https://www.youtube.com/watch?v=bH6VnezBZfI)
 - [Multi layer perceptron on neural network](https://www.youtube.com/watch?v=LH9TYO66Ges)
-- [Tutorial 5- How to train MultiLayer Neural Network and Gradient Descent](https://www.youtube.com/watch?v=cxPAvoIbsIk)
+- [Tutorial 5- How to train MultiLayer Neural Network and Gradient Descent ](https://www.youtube.com/watch?v=cxPAvoIbsIk)
 
 ### Cources
 
