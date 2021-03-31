@@ -1,4 +1,4 @@
-## Day 5 Resources 
+## Day 10 Resources 
 
 ### Blogs
 
